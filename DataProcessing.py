@@ -1,9 +1,3 @@
-"""
-@author : antoine.guillemain@gmail.com
-all right reserved.
-"""
-
-
 import numpy as np
 import scipy.spatial as scispa
 import skimage.morphology as morpho
